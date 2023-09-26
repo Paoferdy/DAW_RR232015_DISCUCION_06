@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: rgb(236, 226, 214);
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(112, 50, 50);
+    color: white;
+}
+.busqueda{
+    padding-top: 20px;
+    text-align: center;
+    font-size: large;
+    color: rgb(103, 60, 60);
+}
+.busqueda input{
+    width: 16em;
+}
+.lista-palabras{
+    float: left;
+    padding-left: 20%;
+    padding-top: 20px;
+}
+.DefinicionBox{
+    padding-top: 20px;
+    padding-left: 50%;
+}
+.DefinicionBox h2{
+    color: rgb(79, 50, 50);
+    font-size: large;
+}
